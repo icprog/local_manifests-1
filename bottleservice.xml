@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <manifest>
+
+
+  <project name="premaca/android_device_wingtech_wt88047" path="device/wingtech/wt88047" remote="cm" revision="cm-13.0" />
+  <project name="premaca/proprietary_vendor_wingtech" path="vendor/wingtech" remote="cm" revision="cm-13.0" />
+  <project name="premaca/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" remote="cm" revision="cm-13.0-amss-2.1-wt88047" />
+</manifest>
