@@ -43,7 +43,7 @@
   <!--
         WT88047 specific device tree, proprietary blobs and kernel
   -->
-  <project name="Tesla-M-Devices/device_wingtech_wt88047" path="device/wingtech/wt88047" remote="git" revision="mm" />
+  <project name="Tesla-M-Devices/android_device_wingtech_wt88047" path="device/wingtech/wt88047" remote="git" revision="mm6.0" />
   <project name="premaca/proprietary_vendor_wingtech" path="vendor/wingtech" remote="git" revision="cm-13.0" />
   <project name="premaca/android_kernel_cyanogen_msm8916" path="kernel/cyanogen/msm8916" remote="git" revision="cm-13.0-amss-2.1-wt88047" />
   <project name="premaca/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="git" revision="cm-13.0"/>
