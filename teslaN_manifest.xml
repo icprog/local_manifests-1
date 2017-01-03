@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-
-  <project name="Tesla-M-Devices/device_wingtech_wt88047" path="device/wingtech/wt88047" remote="github" revision="n7.0" />
+  <project name="Tesla-M-Devices/device_wingtech_wt88047" path="device/wingtech/wt88047" remote="github" revision="n7.1" />
   <project name="premaca/proprietary_vendor_wingtech" path="vendor/wingtech" remote="github" revision="n7.0-caf" />
-  <project name="premaca/Xiaomi_Kernel_OpenSource" path="kernel/wingtech/msm8916" remote="github" revision="n7.0" />
+  <project name="premaca/Xiaomi_Kernel_OpenSource" path="kernel/wingtech/msm8916" remote="github" revision="n7.1" />
 
   <remove-project name="packages_apps_CellBroadcastReceiver" />
 
